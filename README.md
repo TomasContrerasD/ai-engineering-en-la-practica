@@ -27,7 +27,7 @@ Libros:
 - ⭐ Dale una **estrella** al repositorio para apoyarlo.
 - 🔔 Activa **Watch** para recibir notificaciones de las actualizaciones.
 - 📲 **Sígueme en mis redes sociales** para ver los avances, aprendizajes y reflexiones:
-  - **LinkedIn:** https://github.com/TomasContrerasD/ai-engineering-en-la-practica 
+  - **LinkedIn:** https://www.linkedin.com/in/tomas-contreras-delporte/
   - **Instagram:** https://www.instagram.com/tomascd__/
   - **Sitio web:** https://tomascontrerasd.github.io/
 
